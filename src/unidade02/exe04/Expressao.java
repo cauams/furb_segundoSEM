@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Cauã de Miranda Scarabelotti
+ * @author Cauã
  */
 
 public class Expressao {
